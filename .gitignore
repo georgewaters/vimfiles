@@ -1,0 +1,6 @@
+autoload/plug.vim
+swap/
+plugged/
+tags
+tags.lock
+tags.temp
